@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "inventory_plan.py"
